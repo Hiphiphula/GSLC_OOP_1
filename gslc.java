@@ -7,13 +7,6 @@ public class gslc {
 	
 	public static void main(String[] args) {
 		
-		ArrayList<Integer> num = new ArrayList<>();
-		
-		num.add(20);
-		num.add(300);
-		
-		System.out.println(num.size());
-		
 		System.out.println("enter the array size:");
 		
 		Scanner in = new Scanner(System.in);
